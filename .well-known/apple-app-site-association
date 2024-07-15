@@ -7,6 +7,7 @@
           "6DJ6JNVPYA.com.aio.extradepro"
         ],
         "paths": [
+          "/links",
           "*"
         ],
         "components": [
