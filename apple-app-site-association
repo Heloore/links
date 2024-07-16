@@ -1,0 +1,26 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": [
+          "6DJ6JNVPYA.com.aio.extradepro"
+        ],
+        "paths": [
+          "*", "/", "/links"
+        ],
+        "components": [
+          {
+            "/": "/*",
+            "/links": "/*"
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "6DJ6JNVPYA.com.aio.extradepro"
+    ]
+  }
+}
